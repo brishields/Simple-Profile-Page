@@ -117,7 +117,7 @@ h1.tag.name:hover {
   background-color: #222;
   color: #F6C545;
 }
-.section {
+section {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
