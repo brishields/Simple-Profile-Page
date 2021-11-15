@@ -130,6 +130,13 @@ section {
 .section:hover {
   border-color: #ff9904;
 }
+section img {
+  display: block;
+  width: 39%;
+  Height: auto;
+  margin: auto;
+
+}
 
 ul.skills {
   padding: 0;
