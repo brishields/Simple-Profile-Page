@@ -38,7 +38,7 @@ nav {
   padding: 0;
 }
 
-.nav-box .name {
+.nav .name {
     display: block;
     width: 50%;
     margin-right: auto;
@@ -49,28 +49,28 @@ nav {
     text-align: left;
     padding-left:10px;
   }
-  .nav-box .name a {
+  .nav .name a {
     color:#F6C545;
   }
-  .nav-box .name a:hover {
+  .nav .name a:hover {
     color: white;
   }
-.nav-box li:nth-child(2){
+.nav li:nth-child(2){
   padding: 15px;
   color: white;
 }
-.nav-box li:nth-child(3){
+.nav li:nth-child(3){
   padding: 15px;
   color: white;
 }
-.nav-box li:nth-child(4){
+.nav li:nth-child(4){
   padding: 15px;
   color: white;
 }
-.nav-box a {
+.nav a {
   transition: all .5s;
 }
-.nav-box a:hover {
+.nav a:hover {
   color:#F6C545;
 }
 a:active {
